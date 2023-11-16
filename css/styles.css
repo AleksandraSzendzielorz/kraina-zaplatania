@@ -1,0 +1,38 @@
+.header {
+  background-color: bisque;
+  background-image: url(../images/logo-christmas.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 90px;
+}
+.container {
+  max-width: 800px;
+}
+.offer-header {
+  margin-top: 0;
+}
+.offer-list {
+  list-style: none;
+  align-items: center;
+  justify-content: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.offer-li {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.offer-img {
+  max-width: 450px;
+  border-radius: 2%;
+  box-shadow: 2px 2px 10px;
+}
+.first-section {
+  background-color: #e4d6c8;
+  padding-left: auto;
+  padding-right: auto;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
